@@ -8,8 +8,8 @@
   vars:
     instance_type: t2.micro
     security_group: webservers
-    ec2_access_key: AKI**********
-    ec2_secret_key: k+f5HRj******************
+    ec2_access_key: 
+    ec2_secret_key: 
     image: ami-0892d3c7ee96c0bf7
     region: us-west-2
     keypair: ans
